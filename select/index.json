@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ひとくちの魔法",
+  "base_artist": "ぶいすぽっ！、紡木こかげ",
+  "createdAt": "2025-12-20T13:41:42.350158Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひとくちの魔法",
+      "artist": "ぶいすぽっ!、紡木こかげ",
+      "has_synced": false,
+      "path": "select/pl_01_ひとくちの魔法_ぶいすぽっ!、紡木こかげ.txt"
+    }
+  ]
+}
